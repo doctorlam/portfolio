@@ -1,0 +1,59 @@
+#container {
+	
+	max-width: 320px;
+	
+	}
+
+header {
+	width: 100%;
+	height: 100%;
+	}
+header h1 a, header h1 a:hover {
+	font-size: 1.7em;
+}
+nav {
+	width: 100%;
+}
+nav ul, nav a:hover {
+	font-size: 1em;
+}
+
+header h1 {
+	text-align: center;
+}
+
+header h2 {
+	text-align:center;
+	margin-top: 1px;
+}
+
+h1, #left-column-cv h1, #right-column-cv h1, #middle-column-cv h1 {
+	font-size: 1.5em;
+}
+
+
+#left-column {
+	width:100%;
+
+
+}
+#middle-column {
+	width:100%;
+	
+}
+#right-column {
+	width:100%;
+
+}
+footer img {
+	width: 36px;
+	height: 36px;
+}
+footer p {
+	
+	font-size: .9em;
+
+}	
+footer ul {
+	font-size: .9em;
+}

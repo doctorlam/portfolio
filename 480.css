@@ -1,0 +1,127 @@
+#container {
+	
+	max-width: 480px;
+	
+	}
+
+header {
+	width: 100%;
+	height: 100%;
+	}
+h1, h1 a {
+	font-size: 1.75em;
+}
+p {
+	font-size: 1.2em;
+}
+ul {
+	font-size: 1.1em;
+}
+
+a {
+	font-size: 1em;
+}
+a:visited {
+	font-size: 1em;
+	color: #818181;
+}
+
+header h1 {
+	text-align: center;
+	font-size: 1.5em;
+}
+
+header h2 {
+	text-align:center;
+	font-size: 1.1em;
+}
+
+nav ul li {
+	display: block;
+	font-size: 1em;
+}
+nav ul li a {
+	font-size: 1em;
+}
+nav ul li a:visited{
+	font-size: 1em;
+}
+nav#secondary ul li {
+	display: block;
+	margin-top:0px;
+	margin-right: 0px;
+	padding-left:0px;
+	margin-right: 35px;
+}
+nav#secondary ul li a {
+	font-size: 1.2em;
+		text-transform: uppercase;
+
+}
+
+#space-container-right {
+	height: 20px;
+}
+#right-space {
+	height: 20px;
+}
+#middle-space {
+	height: 20px;
+}
+#left-space {
+	height: 20px;
+}
+
+
+#left-column {
+	width:100%;
+
+
+}
+#middle-column {
+	width:100%;
+	
+}
+#right-column {
+	width:100%;
+
+}
+#back-top {
+	
+	margin-left: 0;
+}
+#back-top span {
+	width: 38px;
+	height: 38px;
+	display: block;
+	margin-bottom: 7px;
+	background: #ddd url(images/up-arrow-28.png) no-repeat center center;
+
+	/* rounded corners */
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+
+	/* transition */
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+}
+#back-top a {
+	width: 38px;
+
+}
+
+
+#left-column-connect img {
+	width: 75px;
+	height: 75px;
+}
+footer ul {
+	font-size: 1em;
+
+}	
+
+#left-column-cv h1 {
+	font-size: 1.3em;
+}
