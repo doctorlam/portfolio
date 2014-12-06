@@ -600,7 +600,9 @@ only screen and (max-device-width : 940px){
  
 @media only screen and (max-width : 768px),
 only screen and (max-device-width : 768px){
-    .galleryItem {width: 44%; }
+    .galleryItem {width: 44%; 
+    }
+    
     
 }
  
