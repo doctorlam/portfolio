@@ -51,7 +51,7 @@ h2 {
 header ul {
 	font-family: satellite, sans-serif;
 	color: #818181;
-	font-size: 1.3em;
+	font-size: 1.5em;
 	margin-left: -40px;
 	margin-top: -14px;
 	font-weight: bold;
@@ -62,11 +62,11 @@ header ul {
 p {
 	font-family: open sans, sans-serif;
 	color: #575757;
-	font-size:1.3em;
+	font-size:1.5em;
 }
 ul {
 	font-family: open sans, sans-serif;
-	font-size:1.3em;
+	font-size:1.5em;
 	list-style-type: none;
 	color: #575757;
 }
@@ -360,6 +360,7 @@ nav#secondary a:hover{
 #right-column-cv {
 	float: right;
 	width: 40%;
+
 }
 #right-column-cv ul {
 	list-style-type: circle;

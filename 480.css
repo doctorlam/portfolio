@@ -12,10 +12,10 @@ h1, h1 a {
 	font-size: 1.75em;
 }
 p {
-	font-size: 1.2em;
+	font-size: 1.3em;
 }
 ul {
-	font-size: 1.1em;
+	font-size: 1.3em;
 }
 
 a {
@@ -33,7 +33,7 @@ header h1 {
 
 header h2 {
 	text-align:center;
-	font-size: 1.1em;
+	font-size: 1.3em;
 }
 
 nav ul li {
@@ -123,5 +123,8 @@ footer ul {
 }	
 
 #left-column-cv h1 {
-	font-size: 1.3em;
+	font-size: 1.7em;
+	text-align: center;
+	border-top: 1px dotted #818181;
+
 }
